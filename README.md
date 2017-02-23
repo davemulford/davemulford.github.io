@@ -1,2 +1,1 @@
-# mw007.github.io
-My personal website
+These are my random thoughts and rants. I hope they help you.
