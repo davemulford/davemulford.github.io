@@ -1,0 +1,53 @@
+body {
+	font-family: $base-font-family;
+	font-size: $base-font-size;
+
+	color: $foreground-color;
+	background: $background-color;
+}
+
+a {
+	color: $link-color;
+	text-decoration: none;
+}
+
+.site-title {
+	font-size: 32px;
+	display: inline-block;
+
+	&, &:visited {
+		color: #eee;
+	}
+}
+
+.site-header {
+	padding: 15px 0;
+	border-bottom: 1px solid $header-border-color;
+}
+
+.site-nav {
+	position: relative;
+
+	.social-list {
+		position: absolute;
+		right: 4px;
+		top: 3px;
+	}
+}
+
+.page-link {
+	color: $foreground-color;
+}
+
+.wrapper {
+	width: $content-width;
+	margin: 0 auto;
+}
+
+.icon {
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+    }
+}

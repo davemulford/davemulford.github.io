@@ -37,3 +37,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - index.md.bak
+
+sass:
+  sass_dir: _sass
