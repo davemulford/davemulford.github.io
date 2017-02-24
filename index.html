@@ -1,12 +1,13 @@
 ---
 layout: default
 section: home
+title: home
 ---
-<html>
-	<head>
-		<title>mw007's site</title>
-	</head>
-	<body>
-		<h2>Hello!</h2>
-	</body>
-</html>
+{% for post in site.posts limit: 1 %}
+
+<h1>{{ post.title }}</h1>
+<span>{{ post.date | date: "%b %-d, %Y" }}</span>
+
+<div>{{ post.content }}</div>
+
+{% endfor %}

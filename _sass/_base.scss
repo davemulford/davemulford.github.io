@@ -16,23 +16,31 @@ a {
 	display: inline-block;
 
 	&, &:visited {
-		color: #eee;
+		color: $foreground-color;
 	}
 }
 
 .site-header {
 	padding: 15px 0;
 	border-bottom: 1px solid $header-border-color;
+/*}
+
+.site-nav {*/
+	/*position: relative;*/
+
+/*	.social-list {
+		position: relative;
+		right: 40px;
+		top: 3px;
+	}*/
 }
 
-.site-nav {
-	position: relative;
+.site-header-table {
+	width: 100%;
+}
 
-	.social-list {
-		position: absolute;
-		right: 4px;
-		top: 3px;
-	}
+.right-align {
+	text-align: right;
 }
 
 .page-link {
