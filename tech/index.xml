@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teches on Hello</title>
+    <link>https://davemulford.github.io/tech/</link>
+    <description>Recent content in Teches on Hello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davemulford.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backing up git repositories</title>
+      <link>https://davemulford.github.io/tech/git-repo-backup/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davemulford.github.io/tech/git-repo-backup/</guid>
+      <description>&lt;p&gt;Backing up git repos is a must in the current tech landscape.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a wireless VPN router with a Raspberry Pi</title>
+      <link>https://davemulford.github.io/tech/rpi-vpn-router/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://davemulford.github.io/tech/rpi-vpn-router/</guid>
+      <description>&lt;p&gt;Learn how to create a VPN router with a Raspberry Pi!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Source RPMs</title>
+      <link>https://davemulford.github.io/tech/source-rpms/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://davemulford.github.io/tech/source-rpms/</guid>
+      <description>&lt;p&gt;This article will cover how to get the source package, setup your environment, then patch the sources for viewing.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

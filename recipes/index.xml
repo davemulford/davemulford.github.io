@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello</title>
+    <link>https://davemulford.github.io/recipes/</link>
+    <description>Recent content on Hello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davemulford.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overnight Oats</title>
+      <link>https://davemulford.github.io/recipes/overnight-oats/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davemulford.github.io/recipes/overnight-oats/</guid>
+      <description>&lt;p&gt;A base overnight oats recipe.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
