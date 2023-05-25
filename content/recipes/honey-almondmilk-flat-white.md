@@ -10,7 +10,7 @@ How to make a Starbucks Honey Almondmilk Flat White. Recipe taken from the [Star
 
 ## Ingredients
 
-### Honey Syrup
+#### Honey Syrup
 
 - 1 cup honey
 - 1 cup water
@@ -23,7 +23,7 @@ How to make a Starbucks Honey Almondmilk Flat White. Recipe taken from the [Star
 
 ## Instructions
 
-### Honey Syrup
+#### Honey Syrup
 
 Combine 1 cup of honey and 1 cup of water in a small pot on the stove over medium heat until lightly simmering.
 
@@ -31,7 +31,7 @@ Let simmer for 5–7 minutes while stirring occasionally.
 
 Remove from heat and let cool for 20–30 minutes. You can store your honey syrup in the fridge for up to 7 days.
 
-### Honey Almondmilk Flat White
+#### Honey Almondmilk Flat White
 
 Brew your coffee as you normally would. Starbucks recommends 2 shots of Espresso.
 
