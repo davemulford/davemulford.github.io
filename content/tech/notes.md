@@ -23,3 +23,34 @@ To generate a string of letters and numbers only.
 ```text
 LC_ALL=C tr -dc A-Za-z0-9 </dev/urandom | head -c 24 ; echo ''
 ```
+
+## stdout/stderr printing
+
+This is useful for determining which output file is being used by commands.
+
+Add this to the end of a command.
+
+```text
+2> >(sed 's/^/2: /') > >(sed 's/^/1: /')
+```
+
+Example:
+
+```text
+$ ls 2> >(sed 's/^/2: /') > >(sed 's/^/1: /')
+1: Desktop
+1: Documents
+1: Downloads
+...
+
+$ ls foo 2> >(sed 's/^/2: /') > >(sed 's/^/1: /')
+2: ls: foo: No such file or directory
+```
+
+## grep: removing "not permitted" errors
+
+To remove just errors stating "not permitted" use the following.
+
+```text
+$ grep -rni "search text" * 2> >(grep -v 'not perm' >&2)
+```
