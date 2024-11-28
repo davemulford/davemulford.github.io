@@ -21,14 +21,16 @@ Calories 125kcal
 
 ## Ingredients
 
-1 ¼ cup heavy cream
-1 cup whole milk
-⅓ cup pure maple syrup
-1 tablespoon pure vanilla extract
+- 1 ¼ cup heavy cream
+- 1 cup whole milk
+- ⅓ cup pure maple syrup
+- 1 tablespoon pure vanilla extract
 
 ## Instructions
 
-Combine cream, milk, and maple syrup in a small pot set over medium heat. Stir together until bubbles start forming around the edges of the pot and mixture is hot and steamy. Remove pot from heat and blend in vanilla. Allow to cool at room temperature for about 30 minutes before transferring to a jar or bottle. Cover and store in the refrigerator for 7 to 10 days.
+Combine cream, milk, and maple syrup in a small pot set over medium heat. Stir together until bubbles start forming around the edges of the pot and mixture is hot and steamy. Remove pot from heat and blend in vanilla.
+
+Allow to cool at room temperature for about 30 minutes before transferring to a jar or bottle. Cover and store in the refrigerator for 7 to 10 days.
 
 ## Notes
 
