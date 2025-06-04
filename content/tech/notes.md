@@ -54,3 +54,13 @@ To remove just errors stating "not permitted" use the following.
 ```text
 $ grep -rni "search text" * 2> >(grep -v 'not perm' >&2)
 ```
+
+## Topic TBD
+
+The command below solves the issue in macOS where the `netstat` command does not print any process information, except the PID. Pay attention to the `awk` command's `system(...)` section on how to run a command from within awk to add contextual information to the output.
+
+This may only work as-is on macOS but can likely be adapted to work on Linux if needed. However, the Linux `ss` command can already output this information, so this may only be helpful to show how to retrieve extra information when using awk.
+
+```text
+sudo netstat -anv | grep LISTEN | awk 'NR==1 {print "LOCAL_ADDRESS","PID","COMMAND"} {print $4,$11,system("ps -o command= -p " $11)}' | column -t
+```
