@@ -1,6 +1,6 @@
 ---
-title: "Bread
-slug: "bread
+title: "Bread"
+slug: "bread"
 date: "2025-08-13"
 ---
 
